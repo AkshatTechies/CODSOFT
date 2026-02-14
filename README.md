@@ -1,4 +1,4 @@
-# CODSOFT
+
 
 🧮 1. Calculator Web App
 A clean and stylish web-based calculator that performs basic arithmetic operations including addition, subtraction, multiplication, and division. The application supports both button clicks and keyboard inputs for user convenience. Built using HTML, CSS, and JavaScript, it features responsive design, animated buttons, and real-time display updates—making it ideal for quick calculations on any device.
